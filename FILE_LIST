@@ -1,0 +1,37 @@
+📂 ALL FILES TO CREATE:
+
+BACKEND:
+01_database_schema.sql → backend/database/schema.sql
+02_backend_app.py → backend/app.py  
+03_backend_requirements.txt → backend/requirements.txt
+
+FRONTEND SETUP:
+04_frontend_package.json → frontend/package.json
+05_public_index.html → frontend/public/index.html
+06_src_index.js → frontend/src/index.js
+07_src_App.js → frontend/src/App.js
+
+COMPONENTS:
+08_Navbar.js → frontend/src/components/Navbar.js
+09_Footer.js → frontend/src/components/Footer.js
+
+PAGES:
+10_Home.js → frontend/src/pages/Home.js
+11_Menu.js → frontend/src/pages/Menu.js
+12_Reservations.js → frontend/src/pages/Reservations.js
+13_AboutUs.js → frontend/src/pages/AboutUs.js
+14_Gallery.js → frontend/src/pages/Gallery.js
+
+STYLES:
+15_index.css → frontend/src/styles/index.css
+16_App.css → frontend/src/styles/App.css
+17_Navbar.css → frontend/src/styles/Navbar.css
+18_Footer.css → frontend/src/styles/Footer.css
+19_Home.css → frontend/src/styles/Home.css
+20_Menu.css → frontend/src/styles/Menu.css
+21_Reservations.css → frontend/src/styles/Reservations.css
+22_AboutUs.css → frontend/src/styles/AboutUs.css
+23_Gallery.css → frontend/src/styles/Gallery.css
+
+TOTAL: 23 files + this setup guide = 24 files
+
